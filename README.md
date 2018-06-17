@@ -20,4 +20,5 @@
 | Postlight | 90-95% | 
 
 ## Notes from talks
-* [F8 2018 - React Native Panel](https://github.com/sheshbabu/react-native-in-production/blob/master/2018-f8-react-native-panel.md)
+* [2018 F8 - React Native Panel](https://github.com/sheshbabu/react-native-in-production/blob/master/2018-f8-react-native-panel.md)
+* [2017 React Conf - Incrementally Adopting React Native at Facebook](https://github.com/sheshbabu/react-native-in-production/blob/master/2017-react-conf-fb-incremental-adoption.md)
