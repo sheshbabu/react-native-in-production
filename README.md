@@ -19,5 +19,5 @@
 | TaskRabbit | ~86% | 
 | Postlight | 90-95% | 
 
-## Talks
-* [F8 2018 - React Native Panel](https://developers.facebook.com/videos/f8-2018/how-react-native-helps-companies-build-better-mobile-apps/)
+## Notes from talks
+* [F8 2018 - React Native Panel](https://github.com/sheshbabu/react-native-in-production/blob/master/2018-f8-react-native-panel.md)
